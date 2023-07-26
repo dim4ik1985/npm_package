@@ -1,0 +1,22 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"Browser based game\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "dim4ik1985",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dim4ik1985/npm_package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dim4ik1985/npm_package/issues"
+  },
+  "homepage": "https://github.com/dim4ik1985/npm_package#readme"
+}
